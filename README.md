@@ -6,7 +6,7 @@ This repository contains a basic Exploratory Data Analysis (EDA) script for the 
 
 ## 📁 Files
 
-- `titanic_eda.py`: Python script that performs EDA and visualization
+- `Task-2.py`: Python script that performs EDA and visualization
 - `Titanic-Dataset.csv`: Titanic dataset (you can use your local copy or the original from Kaggle)
 
 ## 📊 EDA Includes
